@@ -16,7 +16,7 @@ function FooterLinks() {
         <div className="overflow-hidden rounded-[1.7rem] border border-border bg-background">
           <div className="flex items-center gap-2 border-b border-border px-4 py-3">
             <img src="/pegase-logo.jpg" alt="" className="size-7 rounded-lg object-cover" />
-            <span className="text-xs font-semibold">Pégase · en ligne</span>
+            <span className="text-xs font-semibold">Pégase · IA psychanalytique</span>
           </div>
           <div className="space-y-3 p-4 text-xs leading-5">
             <div className="ml-auto max-w-[85%] rounded-2xl rounded-br-md bg-primary px-3 py-2 text-primary-foreground">Vos pensées méritent de l’espace.</div>
